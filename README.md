@@ -15,6 +15,8 @@ Labs uploaded for European TechXchange to be held in Barcelona the week of 22 Ja
     - L72 – Java Servlet with LINK to COBOL program
     - L93 – RESTful JSON with LINK to COBOL program using JAX-RS, JSON4J, JZOS
 
-- z/OS Connect (CICS in Provider mode)
-    - L97 – zOS Connect EE calling a COBOL application
+- z/OS Connect 
+    - ~~L97 – zOS Connect EE calling a COBOL application~~
+    - We used two labs from Mitch's z/OS Connect Wildfire Workshop: CICS API Provider & CICS API Requester
+        - These labs can be found at https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop
 
